@@ -62,14 +62,11 @@ main {
 }
 
 .hero {
-  background-image: url('../images/cream-pattern.svg');
+  background-image: url('../images/IceCreamBackground.jpg');
   background-size: cover;
   background-position: center;
-  padding: 2rem;
-  border-radius: 16px;
-  margin-bottom: 2rem;
-  text-align: center;
-  box-shadow: 0 8px 20px rgba(28, 61, 110, 0.15);
+  background-repeat: no-repeat;
+  min-height: 300px;
 }
 
 .hero h2 {
